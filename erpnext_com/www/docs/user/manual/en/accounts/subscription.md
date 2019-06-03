@@ -1,6 +1,6 @@
 # Subscription
 
-If you offer a service which requires renewal in the certain time period (yearly, monthly, quarterly etc.), you can use Subscription feature to track them. Subscription master captures all the details required for the auto-creation of Sales Invoice on subscription expiry.
+If you offer a service which requires renewal in the certain time period (yearly, monthly, quaterly etc.), you can use Subscription feature to track them. Subscription master captures all the details required for the auto-creation of Sales Invoice on subscription expiry.
 
 Let's consider a use-case of ERPNext subscription itself. Our hosting plans are available on yearly basis. Each customer's account has subscription expiry date, after which customer must renew their subscription with us.
 
